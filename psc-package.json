@@ -1,0 +1,13 @@
+{
+  "name": "purescript-geo",
+  "set": "purgatory-0.0.1-20181014",
+  "source": "https://github.com/pure-cocaine/purgatory.git",
+  "depends": [
+    "console",
+    "effect",
+    "either",
+    "prelude",
+    "psci-support",
+    "quantities"
+  ]
+}

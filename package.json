@@ -1,0 +1,15 @@
+{
+  "name": "purescript-geo",
+  "version": "0.1.0",
+  "description": "Purescript Geography Functions",
+  "main": "index.js",
+  "scripts": {
+    "build": "pulp --psc-package build --to main.js",
+    "geo": "node index.js"
+  },
+  "author": "Rajat Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "decimal.js": "^10.0.1"
+  }
+}
